@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979414442401",
+    "project_id": "cubrism-79e41",
+    "storage_bucket": "cubrism-79e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979414442401:android:de2cce91503416e53babe0",
+        "android_client_info": {
+          "package_name": "com.example.notificationtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgtlZfWbA4PgdHz7WjvPEpTH8tymf0fKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
